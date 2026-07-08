@@ -4,7 +4,7 @@
 
 ## Presentación
 
-Este Jupyter Book reúne el material académico del curso **[nombre del curso]** de la **Universidad Icesi**. Su propósito es ofrecer a los estudiantes un recurso organizado, interactivo y reproducible para el estudio de los conceptos, métodos y aplicaciones abordados durante el curso.
+Este Jupyter Book reúne el material académico del curso **Matemáticas Aplicadas II** de la **Universidad Icesi**. Su propósito es ofrecer a los estudiantes un recurso organizado, interactivo y reproducible para el estudio de los conceptos, métodos y aplicaciones abordados durante el curso.
 
 El libro integra explicaciones conceptuales, ejemplos desarrollados, cuadernos computacionales y actividades prácticas diseñadas para apoyar el aprendizaje autónomo y el trabajo en clase. A través de los Notebooks de Jupyter, los estudiantes podrán ejecutar código, explorar resultados, modificar ejemplos y fortalecer la comprensión de los temas desde una perspectiva aplicada.
 

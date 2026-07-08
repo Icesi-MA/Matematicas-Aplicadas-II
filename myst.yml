@@ -2,8 +2,8 @@
 version: 1
 project:
   id: c76d1b0d-663b-4106-8bc4-c7926e2040b4
-  title: Matemáticas Aplicadas X
-  description: "Material interactivo y reproducible para el curso [nombre del curso] de la Universidad Icesi."
+  title: Matemáticas Aplicadas II
+  description: "Material interactivo y reproducible para el curso Matemáticas Aplicadas II de la Universidad Icesi."
   keywords:
     - matematicas
     - aplicadas
@@ -15,12 +15,12 @@ project:
     - name: "Editores: Angela Villota y Aníbal Sosa"
   # Template repository. When creating a course from this template,
   # change this URL to the new course repository.
-  github: https://github.com/Icesi-MA/bookTemplate
+  github: https://github.com/Icesi-MA/MAtematicas-Aplicadas-II
   jupyter:
     binder:
       # Template Binder repository. When creating a course from this template,
       # change this value to "owner/repository" for the new course.
-      repo: Icesi-MA/bookTemplate
+      repo: Icesi-MA/Matematicas-Aplicadas-II
       ref: main
 
 site:
@@ -28,7 +28,7 @@ site:
   options:
     logo: _static/icesi-logo.svg
     logo_dark: _static/icesi-logo-dark.svg
-    logo_text: Matemáticas Aplicadas X
+    logo_text: Matemáticas Aplicadas II
     logo_url: https://www.icesi.edu.co/
     logo_alt: Universidad Icesi
     style: _static/icesi.css
