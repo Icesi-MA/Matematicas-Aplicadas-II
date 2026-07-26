@@ -22,7 +22,7 @@ project:
       # change this value to "owner/repository" for the new course.
       repo: Icesi-MA/Matematicas-Aplicadas-II
       ref: main
- toc:
+  toc:
     - file: README.md
     - title: "Unidad 1: Técnicas de integración, ecuaciones diferenciales separables"
       children:
