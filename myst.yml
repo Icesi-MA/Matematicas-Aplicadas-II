@@ -22,7 +22,23 @@ project:
       # change this value to "owner/repository" for the new course.
       repo: Icesi-MA/Matematicas-Aplicadas-II
       ref: main
-
+ toc:
+    - file: README.md
+    - title: "Unidad 1: Técnicas de integración, ecuaciones diferenciales separables"
+      children:
+        - file: "Notebooks/Matemáticas Aplicadas II-nb1.ipynb"
+        - file: "Notebooks/Matemáticas Aplicadas II-nb2.ipynb"
+        - file: "Notebooks/Matemáticas Aplicadas II-nb3.ipynb"
+    - title: "Unidad 2: Vectores, matrices y funciones de varias variables"
+      children:
+        - file: "Notebooks/Matemáticas Aplicadas II-nb4.ipynb"
+        - file: "Notebooks/Matemáticas Aplicadas II-nb5.ipynb"
+    - title: "Unidad 3: Operadores diferenciales en varias variables"
+      children:
+        - file: "Notebooks/Matemáticas Aplicadas II-nb6.ipynb"
+        - file: "Notebooks/Matemáticas Aplicadas II-nb7.ipynb"
+        - file: "Notebooks/Matemáticas Aplicadas II-nb8.ipynb"
+ 
 site:
   template: book-theme
   options:
