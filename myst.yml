@@ -26,19 +26,36 @@ project:
     - file: README.md
     - title: "Unidad 1: Técnicas de integración, ecuaciones diferenciales separables"
       children:
-        - file: "Notebooks/Matemáticas Aplicadas II-nb1.ipynb"
-        - file: "Notebooks/Matemáticas Aplicadas II-nb2.ipynb"
-        - file: "Notebooks/Matemáticas Aplicadas II-nb3.ipynb"
+        - file: "Notebooks/Matemáticas_Aplicadas_II-nb1.ipynb"
+        - file: "Entregas/Matemáticas_Aplicadas_II-Entrega1.ipynb"
+        - file: "Notebooks/Matemáticas_Aplicadas_II-nb2.ipynb"
+        - file: "Notebooks/Matemáticas_Aplicadas_II-nb3.ipynb"
+        - file: "Entregas/Matemáticas_Aplicadas_II-Entrega2.ipynb"
+        - file: "Jornadas/Matemáticas_Aplicadas_II-1raJRP.ipynb"
+        - file: "Jornadas/Matemáticas_Aplicadas_II-1raJRP_25-1.ipynb"
+        - file: "Jornadas/Matemáticas_Aplicadas_II-1raJRP_25-2.ipynb"
     - title: "Unidad 2: Vectores, matrices y funciones de varias variables"
       children:
-        - file: "Notebooks/Matemáticas Aplicadas II-nb4.ipynb"
-        - file: "Notebooks/Matemáticas Aplicadas II-nb5.ipynb"
+        - file: "Notebooks/Matemáticas_Aplicadas_II-nb4.ipynb"
+        - file: "Entregas/Matemáticas_Aplicadas_II-Entrega3.ipynb"
+        - file: "Notebooks/Matemáticas_Aplicadas_II-nb5.ipynb"
+        - file: "Entregas/Matemáticas_Aplicadas_II-Entrega4.ipynb"
+        - file: "Jornadas/Matemáticas_Aplicadas_II-2daJRP.ipynb"
+        - file: "Jornadas/ Matemáticas_Aplicadas_II-2daJRP_2025_I.ipynb"
+        - file: "Jornadas/Matemáticas_Aplicadas_II-2daJRP_2025_II.ipynb"
+
     - title: "Unidad 3: Operadores diferenciales en varias variables"
       children:
-        - file: "Notebooks/Matemáticas Aplicadas II-nb6.ipynb"
-        - file: "Notebooks/Matemáticas Aplicadas II-nb7.ipynb"
-        - file: "Notebooks/Matemáticas Aplicadas II-nb8.ipynb"
- 
+        - file: "Notebooks/Matemáticas_Aplicadas_II-nb6.ipynb"
+        - file: "Entregas/Matemáticas_Aplicadas_II-Entrega5.ipynb"
+        - file: "Notebooks/Matemáticas_Aplicadas_II-nb7.ipynb"
+        - file: "Entregas/Matemáticas_Aplicadas_II-Entrega6.ipynb"
+        - file: "Notebooks/Matemáticas_Aplicadas_II-nb8.ipynb"
+        - file: "Entregas/Matemáticas_Aplicadas_II-Entrega7.ipynb"
+        - file: "Entregas/Matemáticas_Aplicadas_II-Entrega8.ipynb"
+        - file; "Jornadas/Matemáticas_Aplicadas_II-3raJRP_2025_I.ipynb"
+        - file: "Jornadas/Matemáticas_Aplicadas_II-3raJRP_2025_II.ipynb"
+
 site:
   template: book-theme
   options:
