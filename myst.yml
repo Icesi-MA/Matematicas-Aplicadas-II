@@ -29,17 +29,25 @@ project:
     - title: "Unidad 1: Técnicas de integración, ecuaciones diferenciales separables"
       children:
         - file: "Notebooks/MA_II-nb1.ipynb"
+        - file: Entregas/MA_II-Entrega_1.ipynb
         - file: "Notebooks/MA_II-nb2.ipynb"
+        - file: Entregas/MA_II-Entrega_2.ipynb
         - file: "Notebooks/MA_II-nb3.ipynb"
+        - file: Entregas/MA_II-Entrega_3.ipynb
     - title: "Unidad 2: Vectores, matrices y funciones de varias variables"
       children:
         - file: "Notebooks/MA_II-nb4.ipynb"
+        - file: Entregas/MA_II-Entrega_4.ipynb
         - file: "Notebooks/MA_II-nb5.ipynb"
+        - file: Entregas/MA_II-Entrega_5.ipynb
     - title: "Unidad 3: Operadores diferenciales en varias variables"
       children:
         - file: "Notebooks/MA_II-nb6.ipynb"
+        - file: Entregas/MA_II-Entrega_6.ipynb
         - file: "Notebooks/MA_II-nb7.ipynb"
+        - file: Entregas/MA_II-Entrega_7.ipynb
         - file: "Notebooks/MA_II-nb8.ipynb"
+        - file: Entregas/MA_II-Entrega_8.ipynb
  
 site:
   template: book-theme
